@@ -8,42 +8,24 @@
 
 ## Technical Skills 🌟
 
-<span> 
-  <h6>Frontend</h6>
+<span > 
   <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/js.svg" alt="JS" style="height:50px;width:auto;"/>
+
+
+  
   <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/ts.svg" alt="TS" style="height:50px;width:auto;"/>
   <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/react.svg" alt="React" style="height:50px;width:auto;"/>
   <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/next.svg" alt="NextJs" style="height:50px;width:auto;"/>
+  <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/go.svg" alt="Go" style="height:50px;width:auto;"/>
+  <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/py.svg" alt="Python" style="margin-right: 20px;height:50px;width:auto;"/>
   <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/redux.svg" alt="Redux" style="height:50px;width:auto;"/>
   <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/html.svg" alt="" style="margin-right: 20px;height:50px;width:auto;"/>
   <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/css.svg" alt="" style="margin-right: 20px;height:50px;width:auto;"/>
-</span>
-
-<span> 
-  <h6>Backend</h6>
-  <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/go.svg" alt="Go" style="height:50px;width:auto;"/>
   <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/node.svg" alt="Express" style="margin-right:20px;height:50px;width:auto;"/>
-</span>
-
-<span> 
-  <h6>Database</h6>
   <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/mongo.svg" alt="MongoDB" style="margin-right: 20px;height:50px;width:auto;"/>
   <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/postgress.svg" alt="Postgress" style="margin-right: 20px;height:50px;width:auto;"/>
-<!--   <img src="" alt="MySQL" style="margin-right: 20px;height:50px;width:auto;"/> -->
-</span>
-
-<span> 
-  <h6>Devops</h6>
   <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/docker.svg" alt="Docker" style="margin-right: 20px;height:50px;width:auto;"/>
   <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/ks.svg" alt="Kubernetes" style="margin-right: 20px;height:50px;width:auto;"/>
-</span>
-
-<span> 
-  <h6>Programming Languages</h6>
-  <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/js.svg" alt="JS" style="margin-right: 20px;height:50px;width:auto;"/>
-  <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/go.svg" alt="Go" style="margin-right: 20px;height:50px;width:auto;"/>
-  <img src="https://github.com/ashishup1999/ashishup1999/blob/main/skills/py.svg" alt="Python" style="margin-right: 20px;height:50px;width:auto;"/>
-<!--   <img src="" alt="C++" style="margin-right: 20px;height:50px;width:auto;"/> -->
 </span>
 
 ## Experience 💼
