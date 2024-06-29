@@ -1,6 +1,6 @@
 # Ashish Upadhyay
 
-[ashishup1999@gmail.com](ashishup1999@gmail.com) | [8840530175]( 8840530175) | [Linkedin](https://www.linkedin.com/in/ashish-u-338989128/) | [Protfolio](https://ashish-portfolio-ten.vercel.app/) | [Leetcode](https://leetcode.com/ashishup1999/)
+[ashishup1999@gmail.com](ashishup1999@gmail.com) | [8840530175]( 8840530175) | [Linkedin](https://www.linkedin.com/in/ashish-u-338989128/) | [Protfolio](https://portfolio-v2-nine-chi.vercel.app/about) | [Leetcode](https://leetcode.com/ashishup1999/)
 
 ## Summary 📝
 ### I am presently employed as a software developer in a fintech company, with more than 2 years of experience in industrial environments. My expertise lies in Full stack web development, encompassing Frontend, Backend and Devops.
